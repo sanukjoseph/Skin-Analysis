@@ -1,8 +1,8 @@
-# Skyn - Skincare Analysis and Recommendation System
+# Skincare Analysis and Recommendation System
 
 ## Description
 
-Skyn is a web application designed to analyze user-uploaded images to determine skin metrics and provide personalized skincare and makeup product recommendations. It leverages machine learning models to predict skin type, acne severity, and identify skin tone.
+Web application designed to analyze user-uploaded images to determine skin metrics and provide personalized skincare and makeup product recommendations. It leverages machine learning models to predict skin type, acne severity, and identify skin tone.
 
 ## Features
 
@@ -65,7 +65,7 @@ Skyn is a web application designed to analyze user-uploaded images to determine 
 ## Project Structure
 
 ```
-Skyn-main/
+Skin Analysis/
 ├── .gitignore
 ├── .prettierrc
 ├── requirements.txt       # Python backend dependencies
@@ -97,7 +97,7 @@ Skyn-main/
 
     ```bash
     git clone <repository-url>
-    cd Skyn-main
+    cd Skin Analysis
     ```
 
 2.  **Backend Setup:**
@@ -133,7 +133,7 @@ Skyn-main/
 
 1.  **Start the Backend Server:**
 
-    - Make sure you are in the root directory (`Skyn-main`) and your virtual environment is activated.
+    - Make sure you are in the root directory (`Skin Analysis`) and your virtual environment is activated.
     - Run the Flask app:
       ```bash
       python backend/app.py
