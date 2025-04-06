@@ -96,9 +96,14 @@ Skin Analysis/
 1.  **Clone the repository:**
 
     ```bash
-    git clone <repository-url>
-    cd Skin Analysis
+    git clone https://github.com/sanukjoseph/Skin-Analysis.git
     ```
+
+    - Navigate to the project directory:
+      ```bash
+      cd Skin-Analysis
+      ```
+    - If you are using GitHub Desktop, you can clone the repository directly from the app.
 
 2.  **Backend Setup:**
 
