@@ -1,0 +1,8 @@
+{
+  "short_name": "Skyn App",
+  "name": "Skyn - Skin Analysis & Recommendations",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}
